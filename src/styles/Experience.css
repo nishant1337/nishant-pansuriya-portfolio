@@ -1,0 +1,48 @@
+  
+.toggle-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+  }
+  
+  .toggle-button button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #3e497a;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .toggle-button button:hover {
+    background-color: #293155;
+  }
+  
+  .vertical-timeline-element-subtitle {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .bullet-list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .verify-button {
+    font-size: 14px;
+    padding: 8px 15px;
+    border: none;
+    background-color: #e9d35b;
+    color: #3e497a;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+  }
+  
+  .verify-button:hover {
+    background-color: #d0ba44;
+  }
+  
